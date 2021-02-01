@@ -5,4 +5,6 @@ I'm a Computer Science Engineering Student who is passionate about writing code,
 - 🔭 I’m currently a CS student at Rabat School Of Mines (ENSMR).
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
+![github stats](https://github-readme-stats.vercel.app/api?username=hillaoui&show_icons=true&hide_border=true)
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/houssam-illaoui-3a705a1a6/) [Gmail](mailto:h.illaoui@enim.ac.ma)
