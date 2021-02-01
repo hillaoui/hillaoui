@@ -6,5 +6,3 @@ I'm a Computer Science Engineering Student who is passionate about writing code,
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/houssam-illaoui-3a705a1a6/) [Gmail](mailto:h.illaoui@enim.ac.ma)
-
-⭐️ From [hillaoui](https://github.com/hillaoui)
