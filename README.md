@@ -26,6 +26,4 @@ Let's connect and achieve your goals together! 🤝
 
 If you're looking for a skilled Full Stack Engineer and IT Project Manager who can bring technical expertise and collaboration to your team, look no further. Let's connect and begin achieving your goals together! 🤝
 
-![github stats](https://github-readme-stats.vercel.app/api?username=hillaoui&show_icons=true&hide_border=true)
-
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/houssam-illaoui-3a705a1a6/) [Gmail](mailto:h.illaoui@enim.ac.ma)
